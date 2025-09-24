@@ -1,0 +1,24 @@
+#pertama start
+nama = 'zaki'
+sapaan = 'halo semua namaku '
+usia = 17
+tinggi_badan = 165.5
+
+pacar = True #pada 1 tahun lalu
+pacar = False 
+
+# konversi data
+# int("10")      -->>> 10
+# str(5)         -->>> "5"
+# float(6)       -->>> 5.0
+
+print(sapaan + nama);
+print('usiaku adalah ' , usia);
+print('usiaku adalah lain ' + str(usia));
+print('Tinggi badan ku' , tinggi_badan);
+print('pacar?', pacar)
+
+
+# gabungan kata
+print('halo, namaku ' + nama + ' umurku ' + str(usia) + 'pacar ?' + str(pacar))
+#pertama end
