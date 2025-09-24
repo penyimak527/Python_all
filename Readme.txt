@@ -1,4 +1,4 @@
-# Kumpulan Skrip Python
+# Kumpulan Skrip Python Sederhana
 
 ## Deskripsi
 Repositori ini berfungsi sebagai tempat penyimpanan dan cadangan (backup) untuk berbagai skrip Python. Repositori ini berisi file Python yang dapat dijalankan melalui terminal serta aplikasi berbasis framework Streamlit. Tujuannya adalah untuk mengorganisir dan menyimpan kode-kode Python agar mudah diakses dan dikelola.
